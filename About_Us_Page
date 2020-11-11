@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GitHub web page</title>
+<link href="style.css" type="text/css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Staatliches&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="row">
+            <h1>TURKEY DOOMSDAY</h1>
+        </div>
+    </header>
+    <nav>
+        <!--navigational list items-->
+        <!--navigational list items-->
+        <a href="index.html">Home</a>
+        <a href="story.html">The Story</a>
+        <a class="active" href="about.html">About Us</a>
+        <a href="project.html">Project Details</a>
+    </nav>
+<div class="wrapper">
+        <div class = "main2">
+            
+                <div class="columns">
+
+                <div class="column">
+                     <h3><img src="images/dami2.jpg" alt="Picture of Dami" width="150" length="150" style="border:5px solid black"style="color:Palm Leaf;">
+                        <br>Damilya Kassymbekova</h3>
+                    <p>Student - Computer Science and IT
+                    <br>“Progress is made by lazy men looking for easier ways to do things.”
+                    <br>Looking for OPT.
+                    <br>Ex-fashion buyer managing ~100 brands per season.
+                    <br>Came to Seattle in 2017 to conquer America (in a peaceful way, unlike my ancestor Genghis Khan).
+                    <br>Determined, don't like wasting time, fun.
+                    <br><a href="https://www.linkedin.com/in/damilya/" target="_blank">My LinkedIn</a></p>
+                </div>
+                <div class="column">
+                    <h3><img src="images/nicholas alien head.jpg" alt="Picture of Nicholas" width="150" length="150" style="border:5px solid black"style="color:Palm;">
+                        <br>Nicholas Jimenez</h3>
+                    <p>Born in star district plumbus.
+                       <br>Works for the galactic concords embassy securing friendly relations with neghboring districts.
+                       <br>Always proud serving his solarverse doesn't take away from the small or trivial.
+                           moments to grasp hold of. 
+                       <br>Taking his snarks for space walks and enjoying brief 
+                           space currents drifts. 
+                       <br>Nothing is trivial.
+                       <br><a href="https://www.linkedin.com/in/nicholas-jimenez-3b19b11ba/" target="_blank">My LinkedIn</a></p>
+                </div>
+                <div class="column">
+                    <h3><img src="images/Thomas Bio Picture.jpg" alt="Picture of Thomas" width="150" length="150" style="border:5px solid black"style="color:Palm</h3>                               Leaf;"><br>Thomas Mendenhall</h3>
+                    <p>Student - Programming
+                    <br>Inquisitive, curious, driven. 
+                    <br>See pandemic for reason of unemployment. 
+                    <br>Seeing to wildlife and the environment protected while advancing quality of life for human beings is my purpose.  
+                    <br>I have lead teams up to 15 people and coordinated with multiple departments simultaneously.
+                    <br>Recently rescued several plants from a mealy bug infestation.  
+                    <br>When I was 14 I won a ping pong championship on a cruise to Mexico.
+                    <br><a href="https://www.linkedin.com/in/thomas-mendenhall-a9b830183/" target="_blank">My LinkedIn</a></p>
+                </div>
+                <div class="column">
+                    <h3><img src="images/Tim_bio_pic.jpg" alt="Picture of Tim" width="150" length="150" style="border:5px solid black"style="color:Palm Leaf;">
+                        <br>Tim Davidson</h3>
+                    <p>Recently returned to school after an extended absence and was very relieved to find he still has working brain cells after all this time. 
+                        <br>He has worked as an actor, waiter, manager and house manager at various times and often simultaneously. 
+                        <br>Tim is also an ordained minister and has performed several wedding ceremonies over the last fifteen years, only one of which ended in divorcee. 
+                        <br>He enjoys learning more about computers and their many languages and hopes to make this a new career. 
+                        <br>When he was 14, Tim was in the National Spelling Bee in Washington, D.C. He won't tell you the year, but he will say that when he was in the Rose                             <br>Garden to meet the President he saw a golden retriever...
+                        <br><a href="https://www.linkedin.com/in/tim-davidson-3891199/" target="_blank">My LinkedIn</a>
+                    </p>
+                </div>
+                </div>
+
+</p>
+        </div>
+</div>    
+
+<footer>
+        <!--on all the pages-->
+
+        <!--copyright-->
+        <div class="copyright">
+            <div class="row">
+                <ul>
+                    <li>Copyright, 2020 </li>
+                    <li>All Rights Reserved</li>
+                    <li><a href="">Terms of use</a></li>
+                    <li><a href="">Designed by D & T</a></li>
+                </ul>
+            </div> <!--end row-->
+        </div> <!--end copyright-->
+  
+ </footer>
+ </body>
+</html>
